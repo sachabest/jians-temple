@@ -1,0 +1,25 @@
+Comments from Shlane:
+1. Need a reason for the guardian to stay moving / active
+	Possible solutions
+		Need to recharge. Resets some countdown that causes a penalty. Find food? Visit altars?
+		Limited ammunition for the conversion feature
+		Something that keeps the guardian from standing on top of the treasure
+2. Need some interactivity for guardian running back to room
+	Hold/mash a button to make him go faster (should also display a prompt) 
+3. Need some way for the guardian to know where the explorers are, explorers know where guardian is
+	Guardian makes directional noise, stomps, whatever
+	Possible solutions for guardian finding players:
+		Light indication, seeing the torches from a distance
+		Limited xray vision? (Probably too strong)
+		Sonar / radar pulse
+			Guardian makes a noise everyone is able to hear, then gets visual indicators for the directions of all remaining explorers
+			Think Dragon Age Inquisition’s item/object search function
+			Would need a cooldown of some sort
+4. Need some sort of feedback to show that you are going in the right direction
+	Possible solutions (whatever we use should somehow be described to the players):
+		Some procedural geographic feature, IE the treasure is at the deepest point in the temple, so if you’re heading down stairs you know you’re getting closer
+		Torches that are colored differently on the correct path
+		Rooms with statues on pedestals that face the direction of the treasure
+			Can be literally anything with an identifiable front / pointing direction. Face, gesturing figure, animal
+		Minimap with trail?
+
