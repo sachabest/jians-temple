@@ -1,6 +1,7 @@
 ## Jian's Temple - CIS 568 First Project
 
 ### [TRAILER](https://www.youtube.com/watch?v=QM8zamuRmzw)
+### [SEQEL - Jian's Spaceship](https://github.com/sachabest/jians-spaceship)
 ### User’s Guide
 
 * Users must be connected to the Steam service
